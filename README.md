@@ -4,10 +4,10 @@ This is a tool for scanning ip networks. It can work on ubuntu/debian host. You 
 
 ## Getting Started
 
-You must do:
+You must do on your host:
 
 ```
-git clone https://github.com/erofei/snetworks.git on your PC
+git clone https://github.com/erofei/snetworks.git
 ```
 
 ## Prerequisites
