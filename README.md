@@ -1,6 +1,6 @@
 ### IP Networks Scan
 
-This is a tool for scanning ip networks to find active hosts there are. It can work on ubuntu/debian host. You can use it from console or web.
+This is a tool for scanning ip networks to find active hosts there are. It can work on ubuntu/debian host. You can use it from console or web (in developing).
 
 ## Getting Started
 
@@ -32,14 +32,22 @@ sudo snetworks 8.8.8.8 or sudo snetworks + enter
 
 ## Running the tests
 
+If you run a snetwork without parameters you can scan a free (f) or busy (u) subnet. For free network tool uses icmp scanning, for busy network tool uses port scanning. You can scan several networks, use space between them.
+
+If you will run snetworks without parameters you will choose:
+* what network do you want check - f/u
+* specify checked subnets
+* write result in file or not
+* show result on display or not
+
 ## Built With
 
 * [Nmap](https://nmap.org/) - is a free and open source utility for network discovery and security auditing. 
 
 ## Authors
 
-* Erofeev Pavel - **initial work** - @ps.erofeev
-* Samoilenko Natasha - **editor** - @natenka
+* Erofeev Pavel - _initial work_ - @ps.erofeev
+* Samoilenko Natasha - _editor_ - @natenka
 
 ## License
 
