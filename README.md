@@ -24,12 +24,15 @@ sudo pip install python-nmap
 ## Installing
 
 ```
-1. cd ~/snetworks/
-1. sudo cp snetworks.py /usr/sbin/snetwork
-1. sudo chmod +x /usr/sbin/snetwork
-1. sudo snetworks 8.8.8.8 or sudo snetworks :leftwards_arrow_with_hook:
+cd ~/snetworks/
+sudo cp snetworks.py /usr/sbin/snetwork
+sudo chmod +x /usr/sbin/snetwork
+sudo snetworks 8.8.8.8 or sudo snetworks + enter
 ```
-:leftwards_arrow_with_hook:
+1.
+1.
+1.
+1.
 
 ## Running the tests
 
