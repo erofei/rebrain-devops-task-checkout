@@ -32,7 +32,7 @@ sudo snetworks 8.8.8.8 or sudo snetworks + enter
 
 ## Running the tests
 
-If you run a snetwork without parameters you can scan a free (f) or busy (u) subnet. For free network tool uses icmp scanning, for busy network tool uses port scanning. You can scan several networks, use space between them.
+If you run snetwork without parameters you can scan a free (f) or busy (u) subnet. For free network tool uses icmp scanning, for busy network tool uses port scanning. You can scan several networks, use space between them.
 
 If you will run snetworks without parameters you will choose:
 * what network do you want check - f/u
