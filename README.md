@@ -38,6 +38,8 @@ sudo snetworks 8.8.8.8 or sudo snetworks + enter
 
 ## Authors
 
+@natenka
+
 * Pavel Erofeev - @ps.erofeev
 
 ## License
