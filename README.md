@@ -35,3 +35,11 @@ sudo snetworks 8.8.8.8 or sudo snetworks + enter
 ## Built With
 
 * [Nmap](https://nmap.org/) - is a free and open source utility for network discovery and security auditing. 
+
+## Authors
+
+* Pavel Erofeev - @ps.erofeev
+
+## License
+
+This project is licensed under the GNU GPL
