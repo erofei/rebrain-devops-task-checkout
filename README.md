@@ -29,10 +29,6 @@ sudo cp snetworks.py /usr/sbin/snetwork
 sudo chmod +x /usr/sbin/snetwork
 sudo snetworks 8.8.8.8 or sudo snetworks + enter
 ```
-1.
-1.
-1.
-1.
 
 ## Running the tests
 
